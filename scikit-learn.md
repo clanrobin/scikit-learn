@@ -16,13 +16,13 @@ To start with let's fiddle a bit with the plots which just present the data (see
 The first bit plots the physical parameters being measured, namely Sepal and Petal length and width in centimetres (as best as I can guess). The Sepal, for those curious, is bascially the bud casing of the flower that folds back when the flower blooms and the petals appear.
 
 #### Petal data plots
-![Petals](clanrobin.github.io/images/Iris_petals_dimension.png)
+![Petals](/clanrobin.github.io/Images/Iris_petals_dimension.png)
 
 #### Sepal data plots
-![Petals](../images/Iris_sepals_dimension.png)
+![Petals](Images/Iris_sepals_dimension.png)
 
 #### Principal Component Analysis Eigenvectors
-![Petals](../images/Iris_PCA_directions.png)
+![Petals](Images/Iris_PCA_directions.png)
 
 On the scikit-learn page, they only plot the Sepal data which does show that the red points are distinct from the grey and orange ones but not as clearly as can be seen in the Petal data. So it is good we had a look to see whether determining a "red" type of Iris is really challenging or not.
 
