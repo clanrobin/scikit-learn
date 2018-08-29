@@ -7,9 +7,9 @@ Let's start with the Scikit-learn routines, to be honest, I tried skimming ahead
 
 ## The Iris dataset: 
 ### [data and plots](]http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
-So this dataset is used to show primarily how Support Vector Machines are good at finding and identifying sub-groups within a given dataset. In this example, based on the properties of three different types of Irises, SVMs are able to find a robust way to determine which Iris is which.
+So this dataset is used to show primarily how Principal Component Analysis is good at finding and identifying sub-groups within a given dataset. In this example, based on the properties of three different types of Irises, SVMs are able to find a robust way to determine which Iris is which.
 
-So scikit-learn tries to teach us something about SVM's here, so let's have a look at what is going on.
+So scikit-learn tries to teach us something about PCA's here, so let's have a look at what is going on.
 
 To start with let's fiddle a bit with the plots which just present the data (see link in "data and plots").
 The first bit plots the physical parameters being measured, namely Sepal and Petal length and width in centimetres (as best as I can guess). The Sepal, for those curious, is bascially the bud casing of the flower that folds back when the flower blooms and the petals appear.
